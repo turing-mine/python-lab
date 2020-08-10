@@ -83,13 +83,3 @@ myfunc3()
 
 print("Python is " + g)
 
-
-
-
-
-
-
-
-
-
-
